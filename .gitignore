@@ -1,0 +1,11 @@
+# Ignore WordPress core files
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/plugins/
+wp-content/themes/twenty*/
+
+# Ignore system files
+.DS_Store
+node_modules/ 
